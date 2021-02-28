@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Reto1Tutoria1
+namespace Tutoria01Reto01
 {
     class Program
     {
