@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Reto_01___Tarea_Semana_8
 {
-    class Program
+    class Reto_01___Tarea_Semana_8
     {
         static void Main(string[] args)
         {
